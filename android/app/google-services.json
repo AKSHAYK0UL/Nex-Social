@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "698694317808",
+    "firebase_url": "https://nexsocial-588a0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nexsocial-588a0",
+    "storage_bucket": "nexsocial-588a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698694317808:android:dee88080f28f5dbf3eb435",
+        "android_client_info": {
+          "package_name": "com.example.nex_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOK7JUlIAe-pS6sU-UaZhQrpGy6ZsU_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
